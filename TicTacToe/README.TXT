@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Tic Tac Toe
+PURPOSE OF PROJECT: Creating a game using Java OOP
+VERSION or DATE: 2017.12.03
+HOW TO START THIS PROJECT: Run the .jar file
+AUTHORS: Fareen Lavji
+USER INSTRUCTIONS: Play Tic Tac Toe
